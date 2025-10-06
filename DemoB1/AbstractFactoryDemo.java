@@ -1,3 +1,4 @@
+package DemoB1;
 // ====== Abstract Products ======
 interface Button { void paint(); }
 interface Checkbox { void render(); }

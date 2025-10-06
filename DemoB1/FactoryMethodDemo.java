@@ -1,3 +1,4 @@
+package DemoB1;
 // ====== Product ======
 interface Transport { void deliver(); }
 
